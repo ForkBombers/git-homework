@@ -1,1 +1,2 @@
-"# .gitignore file" 
+"*.log" 
+"node_modules/" 
