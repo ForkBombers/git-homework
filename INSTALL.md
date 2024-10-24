@@ -14,3 +14,5 @@ Make sure you have the following installed:
 
 1. Open your terminal.
 2. Clone the repository to your local machine.
+
+Thankyou.

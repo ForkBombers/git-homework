@@ -12,3 +12,5 @@ The repository contains the following files and directories:
 - **CONTRIBUTING.md**: Guidelines for contributing to the project.
 - **CODE-OF-CONDUCT.md**: Outlines the expected behavior for contributors.
 - **index.html**: A simple webpage describing the team, including team number, members' names, and emails.
+
+Thankyou.

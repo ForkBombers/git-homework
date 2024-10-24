@@ -13,3 +13,5 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.4, available at https://www.contributor-covenant.org/version/1/4/code_of_conduct.md
+
+Thankyou.
