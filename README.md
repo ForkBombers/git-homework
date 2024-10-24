@@ -15,3 +15,4 @@ The repository contains the following files and directories:
 
 Thankyou.
 <!-- Added text -->
+![Webpage Screenshot](./screenshot.png)
