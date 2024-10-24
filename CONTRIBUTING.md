@@ -47,7 +47,6 @@ We welcome contributions to the `git-homework` project!
 To maintain high standards in our codebase, please adhere to the following guidelines:
 
 
----
 
 Thank you for contributing to `git-homework`! We appreciate your effort and time.
 
