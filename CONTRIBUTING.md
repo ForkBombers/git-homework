@@ -51,10 +51,3 @@ To maintain high standards in our codebase, please adhere to the following guide
 
 Thank you for contributing to `git-homework`! We appreciate your effort and time.
 
----
-
-- If your project requires specific coding standards (e.g., tabs vs. spaces, indentation), mention them under the **Code Style** section.
-- If there are any dependencies or steps specific to your project (such as running tests or linting), be sure to include them in the **Install Dependencies** or **Testing** sections.
-- Add a link to the issue tracker if people need to report bugs.
-
-This `CONTRIBUTING.md` file sets expectations and ensures that contributors follow consistent processes, making it easier to manage contributions.
